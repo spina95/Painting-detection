@@ -1,0 +1,14 @@
+-e git://github.com/facebookresearch/detectron2.git#egg=detectron2
+opencv-python
+torch
+torchvision
+numpy
+pandas
+PyYAML
+tensorflow
+argparse
+matplotlib
+scipy
+pytesseract
+pillow
+sklearn
