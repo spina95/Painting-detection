@@ -3,7 +3,7 @@ This is a project for the exam of Computer Vision. Its aim is to find a good app
 Two different approaches are taken: one based on image processing techniques and one based on deep learning and on CNNs in particular. 
 
 ### Paper
-The following papers explains in details the different approaches we have tried and our results.
+The following papers explains in details the different approaches we have tried and our results. \
 [Paper.pdf](https://github.com/spina95/Painting-detection/files/10024540/Paper.pdf)
 
 ### Demo
